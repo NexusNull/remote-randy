@@ -8,3 +8,4 @@ I want to run something as root when a user requests it. I don't want to give th
 Is this good code?
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d177ec76-8e10-4f26-a027-7ea6da67f174" />
+no
